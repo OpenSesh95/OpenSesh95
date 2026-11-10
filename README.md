@@ -1,16 +1,14 @@
-## Hi there 👋
+# Saurabh Seshabhattar · @OpenSesh95
 
-<!--
-**OpenSesh95/OpenSesh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Solutions Architect — enterprise data, supply chain & AI/ML infrastructure.**
+I build Fortune-500-scale data systems and write about how they actually work in production.
 
-Here are some ideas to get you started:
+🔭 **Now** — architecting enterprise data + network-analytics systems at Verizon (via Infosys).
+🗂 **Prior** — delivered supply-chain, data-center, and ML-ops systems at Google; manufacturing and energy systems across Caterpillar, PG&E, and Abbott.
+📊 **Focus** — supply chain intelligence · AI infrastructure · data architecture · the patterns that survive production.
+✍️ **Writing** — deep-dives → [newsletter] · case studies → [website]
+🛠 **Building in public** — the pinned repos below: production patterns, not toy apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack** — Python · SQL · Snowflake · BigQuery · Kafka · dbt · CDC · Lakehouse · RAG/LLM · MLOps · LookML · Power BI
+
+📫 [website] · [newsletter] · [LinkedIn]
