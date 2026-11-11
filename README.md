@@ -11,4 +11,4 @@ I build Fortune-500-scale data systems and write about how they actually work in
 
 **Stack** — Python · SQL · Snowflake · BigQuery · Kafka · dbt · CDC · Lakehouse · RAG/LLM · MLOps · LookML · Power BI
 
-📫 [website] · [newsletter] · [LinkedIn]
+📫 [website] · [newsletter] · [LinkedIn](https://www.linkedin.com/in/saurabhsesh)
